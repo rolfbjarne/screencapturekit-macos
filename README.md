@@ -1,0 +1,1 @@
+Test project for https://github.com/xamarin/xamarin-macios/issues/17350.
